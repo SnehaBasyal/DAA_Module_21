@@ -23,7 +23,7 @@ To write a python program to check whether Hamiltonian path exits in the given g
 9. After filling the DP table, check if any dp[i][(1 << N) - 1] is True.
 
 10. If yes, Hamiltonian path exists.
-11. 
+ 
 ## Program:
 Program to implement to check whether Hamiltonian path exits in the given graph.
 
